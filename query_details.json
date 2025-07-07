@@ -1,0 +1,24 @@
+{
+  "query_name": "jira_epic_story_bug_query",
+  "source": "JIRA",
+  "execution_time": "12.03 seconds",
+  "total_rows": 1984,
+  "sample_rows": 10,
+  "query_parameters": {
+    "fields": "key, parent, issuetype, summary, status, created, updated, customfield_10122, customfield_10129, customfield_10213",
+    "jql": "project = 'CUST' AND issuetype in ('Epic', 'Story', 'Bug')",
+    "fieldMapping": {
+      "summary": "SUMMARY",
+      "issuetype.name": "NAME",
+      "parent.key": "ORG_ID",
+      "status.name": "METADATA",
+      "customfield_10122.value": "customer_type",
+      "customfield_10129": "go_live_actual_ts",
+      "customfield_10213.value": "account_type",
+      "updated": "updated_at",
+      "created": "TIMESTAMP"
+    }
+  },
+  "execution_date": "2025-07-07T23:33:00Z",
+  "notes": "This is a sample of the first 10 rows from the full dataset of 1,984 Jira issues from the CUST project. The full dataset was saved to a temporary CSV file during query execution."
+}
