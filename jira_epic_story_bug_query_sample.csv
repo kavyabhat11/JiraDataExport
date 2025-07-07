@@ -1,0 +1,11 @@
+KEY,SUMMARY,NAME,ORG_ID,TIMESTAMP,UPDATED_AT,METADATA,ACCOUNT_TYPE,CUSTOMFIELD_10213,GO_LIVE_ACTUAL_TS,CUSTOMER_TYPE
+CUST-3290,Connections Enhancement for Base 64 Zip File back from Mastercard,Story,CUST-3086,2025-07-07T12:15:55.472-0700,2025-07-07T12:16:08.996-0700,Backlog,Customer,,,
+CUST-3289,ZestAi Environment Readiness & Issue Tracking,Bug,CUST-3165,2025-07-04T01:05:38.103-0700,2025-07-04T01:06:53.171-0700,Backlog,Customer,,,
+CUST-3288,BigPanda Environment Readiness & Issue Tracking,Bug,CUST-3144,2025-07-04T01:03:04.193-0700,2025-07-04T01:06:16.288-0700,Backlog,Customer,,,
+CUST-3286,Scalapay - 502 errors from adyen connection,Bug,CUST-473,2025-07-03T21:30:35.816-0700,2025-07-03T22:48:16.703-0700,Waiting on customer,Customer,,,
+CUST-3284,Parquet file nested field support,Story,CUST-3165,2025-07-03T13:16:09.722-0700,2025-07-07T09:07:09.424-0700,Backlog,Customer,,,
+CUST-3283,"Solutios-Tech - Support Multiple Conditional Source Field Mappings to the Same Vault Column in Fixed-Width Files",Story,CUST-2445,2025-07-03T07:58:13.820-0700,2025-07-06T22:21:32.456-0700,Backlog,Customer,,,
+CUST-3281,The Skyflow SDK doesn't work properly inside components that use a shadow root,Bug,CUST-3086,2025-07-02T09:15:25.035-0700,2025-07-02T09:54:24.852-0700,Backlog,,,,
+CUST-3279,Create ability to upload JSON for connections creation like schema in the UI,Story,CUST-3086,2025-06-26T17:24:04.235-0700,2025-07-02T10:56:13.509-0700,Backlog,Customer,,,
+CUST-3278,Uptrends Alerts: 3.12 na1-prod12-af-south-1 | 2025-06-26T23:49:41,Bug,CUST-1074,2025-06-26T16:49:55.652-0700,2025-06-26T17:41:28.505-0700,Backlog,,,,
+CUST-3277,Uptrends Alerts: 3.13 na1-prod13-ase3 | 2025-06-26T02:56:17,Bug,CUST-1074,2025-06-25T19:56:34.788-0700,2025-06-25T19:56:37.843-0700,Backlog,,,, 
